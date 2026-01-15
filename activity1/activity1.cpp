@@ -42,7 +42,7 @@ int main()
 
 	dog1.setName("Bruno");
 	dog1.setAge(6);
-	dog1.setBreed("Pit bull");
+	dog1.setBreed("Pit Bull");
 
 	cout << "Dog Properties" << endl;
 	cout << "Name: " << dog1.getName() << endl;
