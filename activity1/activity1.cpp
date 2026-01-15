@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-class Dogs {
+class Dog {
 private:
 	string name;
 	int age;
@@ -38,7 +38,7 @@ public:
 
 int main()
 {
-	Dogs dog1;
+	Dog dog1;
 
 	dog1.setName("Bruno");
 	dog1.setAge(6);
